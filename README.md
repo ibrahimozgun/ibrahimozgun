@@ -6,8 +6,6 @@
 
 <img src="ibox.svg">
 <img src="https://github.com/ibrahimozgun/ibrahimozgun/blob/main/minions.gif" />
-<img src="https://github.com/ibrahimozgun/ibrahimozgun/blob/main/ataturkss.gif" />
-<img src="https://github.com/ibrahimozgun/ibrahimozgun/blob/main/smoke.gif" />
 <div id="badges">
   <a href="https://www.linkedin.com/in/ibrahimozzgun/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
