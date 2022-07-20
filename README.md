@@ -1,7 +1,10 @@
 ### Hi there 👋
+<!--
 ![](https://github.com/ibrahimozgun/ibrahimozgun/blob/main/minions.gif)
-<img src="ibox.svg">
+-->
 
+<img src="ibox.svg">
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <div id="badges">
   <a href="https://www.linkedin.com/in/ibrahimozzgun/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
