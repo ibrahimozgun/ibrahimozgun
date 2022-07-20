@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt Text](https://github.com/ibrahimozgun/ibrahimozgun/blob/main/minions.gif)
+![Center](https://github.com/ibrahimozgun/ibrahimozgun/blob/main/minions.gif)
 <img src="ibox.svg">
 
 <div id="badges">
