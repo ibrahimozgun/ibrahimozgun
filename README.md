@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://github.com/ibrahimozgun/ibrahimozgun/blob/master/Minions.gif?raw=true)
-
+<img src="ibox.svg">
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ibrahimozzgun/">
