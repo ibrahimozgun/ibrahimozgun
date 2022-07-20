@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-<!--
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
--->
+<img src="ibox.svg">
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ibrahimozzgun/">
