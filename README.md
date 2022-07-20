@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/ibrahimozgun/ibrahimozgun/blob/master/EllipticalFlippantCommabutterfly-size_restricted.gif?raw=true)
+![](https://github.com/ibrahimozgun/ibrahimozgun/blob/master/Minions.gif?raw=true)
 <img src="ibox.svg">
 
 <div id="badges">
