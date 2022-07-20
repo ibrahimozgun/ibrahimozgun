@@ -1,6 +1,7 @@
 ### Hi there 👋
 <!--
-![](https://github.com/ibrahimozgun/ibrahimozgun/blob/main/minions.gif)
+![](https://github.com/ibrahimozgun/ibrahimozgun/blob/main/ataturkss.gif)
+![](https://github.com/ibrahimozgun/ibrahimozgun/blob/main/smoke.gif)
 -->
 
 <img src="ibox.svg">
