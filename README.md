@@ -9,9 +9,8 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/ibrahimozzgun/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimozgun&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimozgun" /> </p>
   </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimozgun&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimozgun" /> </p>
   
 <!--
 **ibrahimozgun/ibrahimozgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
