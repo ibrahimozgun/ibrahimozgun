@@ -3,14 +3,14 @@
 ![](https://github.com/ibrahimozgun/ibrahimozgun/blob/main/ataturkss.gif)
 ![](https://github.com/ibrahimozgun/ibrahimozgun/blob/main/smoke.gif)
 -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimozgun&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimozgun" /> </p>
 <img src="ibox.svg">
 <img src="https://github.com/ibrahimozgun/ibrahimozgun/blob/main/minions.gif" />
 <div id="badges">
   <a href="https://www.linkedin.com/in/ibrahimozzgun/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimozgun&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimozgun" /> </p>
+
   
 <!--
 **ibrahimozgun/ibrahimozgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
